@@ -1,6 +1,6 @@
 {
   "name": "obsidian-sync-vault-ce",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "A cloud-first Obsidian vault: zero-space VFS keeps files in your cloud drive, local storage near zero, and 4K video streams on demand. Encrypted multi-device sync for Baidu/Aliyun/Quark/WebDAV/S3, with MCP for AI agents and P2P collaboration.",
   "main": "src/index.ts",
   "scripts": {
